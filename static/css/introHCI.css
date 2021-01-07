@@ -32,3 +32,36 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+h1 {
+	font-size: 3em;
+	color: green;
+}
+
+.project {
+	margin-left: 20px;
+}
+
+img {
+	border-style: dashed;
+	border-color: green;
+	border-radius: 10px;
+	padding: 1em;
+	width: 250px;
+	height: auto;
+}
+
+h4 {
+	color: green;
+	margin-left: 20px;
+	font-style: italic;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(23, 69, 23);
+}
+
+a:hover {
+	text-decoration: underline;
+}
